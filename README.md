@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align="left">Hi there 👋 This is Sohyeon Park</h2>
 
-<!--
-**prksohn/prksohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👩🏻‍💻 I’m currently majoring in **French Language & Literature and Computer Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently interested in **Python, Html, Js, Css**
+
+- ✨ I enjoy **hiking, running and sometimes climbing ⛰️🏃🏻‍♀️**
+
+- 🗣️ Languages **🇰🇷🇯🇵🇺🇸(🔜🇫🇷🇩🇪)**
+
+- 📫 How to reach me **sohnprk@gmail.com**
+
+
+
+<p align="left">
+</p>
+ 
