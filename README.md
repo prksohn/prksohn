@@ -1,11 +1,11 @@
-<h2 align="left">Hi there 👋 This is Sohyeon Park</h2>
+<h2 align="left">Hi there! This is Sohyeon Park</h2>
 
 
 - 👩🏻‍💻 I’m currently majoring in **French Language & Literature and Computer Engineering**
 
-- 🌱 I’m currently interested in **Python, Html, Js, Css**
+- 🌱 I’m currently interested in **python, html, js, css**
 
-- ✨ I enjoy **hiking, running and sometimes climbing ⛰️🏃🏻‍♀️**
+- ✨ I enjoy **hiking, running and sometimes climbing**
 
 - 🗣️ Languages **🇰🇷🇯🇵🇺🇸(🔜🇫🇷🇩🇪)**
 
